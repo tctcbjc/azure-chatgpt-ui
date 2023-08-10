@@ -122,11 +122,11 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>
             {" "}
-            {process.env.NEXT_PUBLIC_TITLE ?? "Jarvis"}
+            {process.env.NEXT_PUBLIC_TITLE ?? "GPT-4"}
           </div>
           <div className={styles["sidebar-sub-title"]}>
             {process.env.NEXT_PUBLIC_SUB_TITLE ??
-              "Using GPT-4 in Azure OpenAI Service"}
+              "Tcbjc"}
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
