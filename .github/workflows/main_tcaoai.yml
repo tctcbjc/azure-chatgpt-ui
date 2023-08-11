@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'tcaoai'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0578953CEE144021BB4F391A65A8984D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F4AD50D1F0B40228848D8D4E772164B }}
           package: .
